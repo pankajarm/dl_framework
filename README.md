@@ -4,7 +4,7 @@ A library that demonstrates training of data using stochastic gradient descent m
 
 The dl_framework library is a part of Udacity's Nanodegree Program and has been prepared while pursuing the same
 
-Table of Contents
+# Table of Contents
 
 dl_framework.py
 
@@ -18,7 +18,7 @@ boston_housing_with_custom_dl_framework.ipynb
 
 This file consists predetion of Boston Housing Data using our dl_framework
 
-Usage
+# Usage
 
 Include the dl_framework.py in your root project and use the following classess as follows:
 
@@ -38,6 +38,6 @@ MSE
 
 Use this node to calculate Mean Square Error
 
-Further functions are included to perform forward pass, backward pass and gradient descent
+# Further functions are included to perform forward pass, backward pass and gradient descent
 In boston_housing_with_custom_dl_framework.ipynb  sci-kit learn library is used to resample the dataset to perform a Stochastic Gradient Descent. 
 The dl_framework library is designed for Stochastic Gradient Descent and hence the function for gradient descent is named as sgd_update
